@@ -1,0 +1,6 @@
+﻿1>------ Build started: Project: GradeBook, Configuration: Debug|AnyCPU ------
+1>C:\Program Files\dotnet\sdk\5.0.202\Sdks\Microsoft.NET.Sdk\targets\Microsoft.NET.EolTargetFrameworks.targets(28,5): warning NETSDK1138: The target framework 'netcoreapp2.0' is out of support and will not receive security updates in the future. Please refer to https://aka.ms/dotnet-core-support for more information about the support policy.
+1>C:\Users\anupa\Desktop\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\GradeBook.csproj : error NU1102: Unable to find package Newtonsoft.Json with version (>= 10.0.3)
+1>C:\Users\anupa\Desktop\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\GradeBook.csproj : error NU1102:   - Found 1 version(s) in Microsoft Visual Studio Offline Packages [ Nearest version: 9.0.1 ]
+1>C:\Users\anupa\Desktop\pluralsight-projects-CSharp-GradeBookApplication-15d4f09\GradeBook\GradeBook.csproj : error NU1101: Unable to find package Microsoft.NETCore.App. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
